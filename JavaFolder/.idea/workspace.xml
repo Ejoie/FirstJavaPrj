@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a23e4db1-9a70-4b0a-b063-911f2a16a0cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFolder" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7Lk9wbSGWtSvd2AftQ0fubmrq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaClients" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="JavaFolder" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a23e4db1-9a70-4b0a-b063-911f2a16a0cf" name="Default Changelist" comment="" />
+      <created>1586081827016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586081827016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Servers" timestamp="1586095831959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Servers/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586095831959" />
+    <state x="242" y="223" key="#xdebugger.evaluate" timestamp="1586193203524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="242" y="223" key="#xdebugger.evaluate/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586193203524" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1586338994633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586338994633" />
+    <state width="940" height="219" key="GridCell.Tab.0.bottom" timestamp="1586350459986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="219" key="GridCell.Tab.0.bottom/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586350459986" />
+    <state width="940" height="219" key="GridCell.Tab.0.center" timestamp="1586350459986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="219" key="GridCell.Tab.0.center/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586350459986" />
+    <state width="940" height="219" key="GridCell.Tab.0.left" timestamp="1586350459986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="219" key="GridCell.Tab.0.left/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586350459986" />
+    <state width="940" height="219" key="GridCell.Tab.0.right" timestamp="1586350459986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="940" height="219" key="GridCell.Tab.0.right/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586350459986" />
+    <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1586210911562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.bottom/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586210911562" />
+    <state width="914" height="344" key="GridCell.Tab.1.center" timestamp="1586210911562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.center/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586210911562" />
+    <state width="914" height="344" key="GridCell.Tab.1.left" timestamp="1586210911562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.left/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586210911562" />
+    <state width="914" height="344" key="GridCell.Tab.1.right" timestamp="1586210911562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.right/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586210911562" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586095989701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586095989701" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586338861097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586338861097" />
+    <state x="285" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586193118584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586193118584" />
+    <state x="807" y="359" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586193310152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="359" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586193310152" />
+    <state x="342" y="140" key="new project wizard" timestamp="1586338998383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586338998383" />
+    <state x="552" y="178" key="scopes" timestamp="1586095815690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="scopes/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586095815690" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586095895599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-833.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1586095895599" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaFolder$Main.ic" NAME="Main Coverage Results" MODIFIED="1586192565872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
